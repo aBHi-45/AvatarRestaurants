@@ -1,0 +1,85 @@
+/* tags */
+
+
+h2{
+  color: white;
+}
+
+/* class */
+.bodyMod {
+  background-image: url('images/BckI.jpg');
+}
+
+.title{
+  padding-top: 4%;
+  font-size: 50px;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
+
+.home{
+  margin-top: 15%;
+  font-size: 50px;
+  color: white;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
+
+.crsl{
+  padding: 20% 4%;
+}
+
+.crsli{
+  border: 5px solid #FFF;
+}
+
+.abt{
+  background-color: #ffdf80;
+  padding: 15px 10px 70px 15px;
+  border: 5px solid black;
+  text-align: center;
+}
+
+.frm{
+  margin: auto;
+  padding: 10px;
+  width: 50%;
+}
+.smedia{
+  margin-top: 12px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  background-color: #000220;
+  padding: 10px 5%;
+}
+
+.cuisines{
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+.testi{
+  background-color: #ffe194;
+  border: 5px solid black;
+  font-family: 'Merienda', cursive;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.center{
+  margin-left: 40%;
+}
+/* ID */
+#logo{
+  height: 50px;
+  width: 100px;
+
+}
+
+#brand {
+  font-size: 2.1rem;
+}
